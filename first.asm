@@ -1,6 +1,3 @@
-;*********************************************************
-;*apskaiciuoja tarpu kieki ivestoje simboliu eiluteje*
-;*********************************************************
 .model small
 
 .stack 100h

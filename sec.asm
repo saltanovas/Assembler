@@ -1,6 +1,3 @@
-;Programa viename faile iesko nurodyto fragmento ir i kita isveda eiluciu,
-;kuriose rastas sis fragmentas, numerius ir pacias eilutes     
-
 .model small                                     
 
 BufDydis EQU 255                          

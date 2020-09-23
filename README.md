@@ -2,9 +2,9 @@
 
 <p>There are two assembly programs:</p>
 <ol>
-<li>first.asm counts the spaces in the given string</li>
+<li><i>first.asm</i> counts the spaces in the given string</li>
   <p></p>
-<li>sec.asm searches for the given substring in one file and outputs to another file the number of the lines where this substring was found, and the lines themselves. For instance, if <i>data.txt</i> file is:
+<li><i>sec.asm</i> searches for the given substring in one file and outputs to another file the number of the lines where this substring was found, and the lines themselves. For instance, if <i>data.txt</i> file is:
   
 ```
 a;lsdkjf
